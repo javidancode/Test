@@ -1,0 +1,21 @@
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Course application.exe
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Course application.deps.json
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Course application.runtimeconfig.json
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Course application.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Course application.dll
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Course application.pdb
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\obj\Debug\netcoreapp3.1\Course application.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\obj\Debug\netcoreapp3.1\Course application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\obj\Debug\netcoreapp3.1\Course application.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\obj\Debug\netcoreapp3.1\Course application.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\obj\Debug\netcoreapp3.1\Course application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\obj\Debug\netcoreapp3.1\Course application.dll
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\obj\Debug\netcoreapp3.1\Course application.pdb
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\obj\Debug\netcoreapp3.1\Course application.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\ASUS\source\repos\ConsolProject C#\Course application\Course application\obj\Debug\netcoreapp3.1\Course application.csproj.CopyComplete
